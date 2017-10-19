@@ -1,0 +1,71 @@
+/* * * * * * * * * * * * * *
+	PATTERNS
+* * * * * * * * * * * * * */
+
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+:focus {
+	outline: 1px dotted $featuredColor;
+}
+
+html,
+input,
+button {
+	color: $textColor;
+	font-size: 16px;
+	font-family: "Trebuchet MS", sans-serif;
+	line-height: 24px;
+}
+
+body {
+	background: $backgroundColor;
+	min-width: 320px;
+	margin: 15px;
+}
+
+a {
+	color: $linkColor;
+	text-decoration: none;
+	@include transition(color .3s ease-out);
+
+	&:hover {
+		color: $linkColorHover;
+	}
+}
+
+fieldset {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+input {
+	background: $inputBg;
+	text-align: center;
+}
+
+input[type="text"],
+button {
+	padding: 0 12px;
+}
+
+input,
+button {
+	border: 0;
+	@include border-radius(8px);
+}
+
+button {
+	background: $linkColor;
+	color: #FFF;
+	cursor: pointer;
+	@include transition(background-color .3s ease-out);
+
+	&:hover {
+		background: $linkColorHover;
+	}
+}

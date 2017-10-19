@@ -1,0 +1,19 @@
+.description {
+	background: $contentBg;
+	overflow: hidden;
+	padding: 0 24px;
+	@include border-radius(8px 8px 0 0);
+
+	&__title {
+		color: $featuredColor;
+		font-size: 40px;
+		line-height: 48px;
+		margin: 24px 0 16px 0;
+	}
+
+	&__text {
+		margin: 0;
+		padding-bottom: 24px;
+		border-bottom: 1px solid $backgroundColor;
+	}
+}

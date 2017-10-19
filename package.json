@@ -1,0 +1,18 @@
+{
+	"name": "K-Gasp4m",
+  "version": "1.0.0",
+  "description": "Password Generator. K-Gasp4m is for K! Generate a strong password for me.",
+  "author": "Fabio Lobo <contato@fabiolobo.com.br> (https://www.fabiolobo.com.br)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/fabiorlobo/K-Gasp4m.gi"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-watch": "^4.3.11"
+  }
+}
