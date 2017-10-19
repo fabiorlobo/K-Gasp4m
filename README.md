@@ -1,12 +1,12 @@
 # What is this?
 
-**K-Gasp4m** is a password generator. Yeah, the name looks like a password too! It means "K - Generate a strong password for me".
+**K_Gasp4m** is a password generator. Yeah, the name looks like a password too! It means "K - Generate a strong password for me".
 
 ## How it works?
 
-Access this link for generate awesome passwords: [**K-Gasp4m: Password Generator**](#)
+Access this link for generate awesome passwords: [**K_Gasp4m: Password Generator**](https://fabiorlobo.github.io/K_Gasp4m/)
 
-**K-Gasp4m** generates passwords using three groups of characters:
+**K_Gasp4m** generates passwords using three groups of characters:
 
 	allcaps: ABCDEFGHJKLMNPQRSTUVWXYZ
 	lowercase: abcdefghijkmnopqrstuvwxyz
@@ -35,7 +35,7 @@ See `gulpfile.js` for more options.
 
 ---
 
-**K-Gasp4m: Password Generator**
+**K_Gasp4m: Password Generator**
 
 Created by Fabio Lobo  
 contato@fabiolobo.com.br  
