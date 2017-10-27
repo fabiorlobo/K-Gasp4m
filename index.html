@@ -22,13 +22,12 @@
 	
 			<fieldset class="k-password__fields k-password__fields--generate">
 				<label>
-					<input class="k-password__lenght" name="length" type="number" value="12" tabindex="1"> characters
+					<input class="k-password__lenght" name="length" type="number" value="12" min="8" tabindex="1"> characters
 				</label>
 	
 				<label>
-					<input class="k-password__special" name="special" type="checkbox" id="removeSpecial">
-					<span class="k-password__check" tabindex="2">Remove special characters</span>
-					Remove special characters
+					<input class="k-password__special" name="special" type="checkbox" id="removeSpecial" tabindex="2">
+					<span class="k-password__special-text">Remove special characters</span>
 				</label>
 	
 				<button class="k-password__button" type="button" onClick="printPassword();" tabindex="3">Generate</button>

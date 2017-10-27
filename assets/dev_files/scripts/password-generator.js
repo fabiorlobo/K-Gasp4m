@@ -61,4 +61,5 @@ function generatePassword( length ) {
 
 function printPassword() {
 	mypassword.finalpassword.value = generatePassword(mypassword.length.value);
+	document.getElementById( 'password' ).select();
 }
