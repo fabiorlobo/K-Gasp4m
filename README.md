@@ -33,6 +33,13 @@ Watch for CSS and JS changes.
 
 See `gulpfile.js` for more options.
 
+## Embedding
+
+Use this code to embed **K_Gasp4m** in your site:
+
+	<script async type="text/javascript" src="https://fabiorlobo.github.io/K_Gasp4m/assets/scripts/embed.js"></script>
+	<div id="K_Gasp4m"></div>
+
 ---
 
 **K_Gasp4m: Password Generator**
