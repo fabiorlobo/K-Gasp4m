@@ -11,4 +11,4 @@ document.getElementById('K_Gasp4m').innerHTML =
 			'width: 100%;' +
 		'}' +
 	'</style>' +
-	'<iframe class="K_Gasp4m" src="index.html" width="300" height="570" frameborder="0" scrolling="no"></iframe>';
+	'<iframe class="K_Gasp4m" src="https://fabiorlobo.github.io/K_Gasp4m" width="300" height="570" frameborder="0" scrolling="no"></iframe>';
