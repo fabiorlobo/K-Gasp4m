@@ -48,4 +48,4 @@ Created by Fabio Lobo
 contato@fabiolobo.com.br  
 [www.fabiolobo.com.br](https://www.fabiolobo.com.br)  
 
-[![Fabio Lobo](https://www.fabiolobo.com.br/wp-content/themes/fl5.0/images/logo.svg)](https://www.fabiolobo.com.br)
+[![Fabio Lobo](https://www.fabiolobo.com.br/wp-content/themes/fl6.0/assets/images/logo.svg)](https://www.fabiolobo.com.br)
